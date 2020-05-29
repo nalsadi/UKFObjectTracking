@@ -1,2 +1,3 @@
 # UKFObjectTracking
-UKF Object Tracking
+Developed using a foundational programming structure presented by Toby Breckon for classical Kalman Filtering tracking. Advanced by utilizing an unscented Kalman Filter.
+
